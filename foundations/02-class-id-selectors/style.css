@@ -1,0 +1,18 @@
+.normal-class {
+    background: #e89d8d;
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#firstdiv {
+    color: #322ac6;
+    font-size: 36px;
+}
+
+#seconddiv {
+    background:#6eeb7d;
+    font-weight: bold;
+}
